@@ -23,5 +23,8 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.3",
     "@eslint/eslintrc": "^3"
-  }
+  },
+  "browserslist": [
+    "defaults or >0.1% or not dead or last 2 versions or last 10 years or ie >= 11"
+  ]
 }

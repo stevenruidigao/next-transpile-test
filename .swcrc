@@ -1,0 +1,7 @@
+{
+    "env": {
+        "targets": "defaults or >0.1% or not dead or last 2 versions or last 10 years or ie >= 11",
+        "mode": "entry",
+        "coreJs": "3"
+    }
+}
